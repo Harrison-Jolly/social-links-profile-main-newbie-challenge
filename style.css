@@ -73,6 +73,11 @@ a:hover {
     transition: ease-in-out 500ms;
 }
 
+a:active {
+    background-color: hsl(118, 94%, 57%);
+    transition: ease-in;
+}
+
 footer {
     margin-top: 5rem;
     color: white;
